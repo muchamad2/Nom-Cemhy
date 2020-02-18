@@ -217,7 +217,8 @@ public class SoalManager : MonoBehaviour
         {
             if (GameUtility.currBenar >= GameManager.Instance.minimBenar)
             {
-                SceneTransaction.Instance.SceneLoad("Lvl" + lvl);
+                //SceneTransaction.Instance.SceneLoad("Lvl" + lvl);
+                GameManager.Instance.showProgressionReward();
                 GameUtility.totalBenar += GameUtility.currBenar;
                 mainMenuController.unlockedLvl = lvl;
             }

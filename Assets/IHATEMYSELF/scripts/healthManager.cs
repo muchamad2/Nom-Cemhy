@@ -19,7 +19,7 @@ public class healthManager : MonoBehaviour
         if (currHealth <= 0)
         {
             currHealth = 0;
-            GameManager.Instance.ReloadLevel();
+            GameManager.Instance.showGameOverReward();
         }
 
     }
