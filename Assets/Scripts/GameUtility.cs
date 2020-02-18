@@ -1,5 +1,6 @@
 public class GameUtility{
     public static bool isPlaying;
+    public static float currentVolume;
     public enum Language
     {
         Indo,

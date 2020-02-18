@@ -2289,7 +2289,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.5
   m_overflowMode: 4
-  m_firstOverflowCharacterIndex: 580
+  m_firstOverflowCharacterIndex: -1
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -5333,7 +5333,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1127444786}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7.4173355, y: -1.8800011, z: -10}
+  m_LocalPosition: {x: -9.873796, y: -1.8800011, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 622909683}
@@ -6114,7 +6114,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1256511491}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -10.362225, y: -1.8799992, z: -10}
+  m_LocalPosition: {x: -14.456324, y: -1.8799992, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -9890,6 +9890,7 @@ MonoBehaviour:
   silverReward: {fileID: 0}
   rewardImg: {fileID: 0}
   minimBenar: 7
+  bgmSources: {fileID: 423852921}
 --- !u!1 &2115131084
 GameObject:
   m_ObjectHideFlags: 0

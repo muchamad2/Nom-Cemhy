@@ -15,6 +15,7 @@ public class GameManager : MonoBehaviour
             return _instance;
         }
     }
+    [Header("End Game References")]
     [SerializeField]
     private GameObject panelReward;
     [SerializeField]
@@ -24,7 +25,12 @@ public class GameManager : MonoBehaviour
     [SerializeField]
     private Sprite silverReward;
     public Image rewardImg;
+    [Space]
+    [Header("Current Stage References")]
     public int minimBenar;
+    [Space]
+    [Header("Audio References")]
+    [SerializeField] AudioSource bgmSources;
     // Start is called before the first frame update
     void Start()
     {
@@ -34,6 +40,7 @@ public class GameManager : MonoBehaviour
             if(panelReward.activeInHierarchy)
                 panelReward.SetActive(false);
         }
+        bgmSources.volume = GameUtility.currentVolume;
     }
 
     public void showReward(){

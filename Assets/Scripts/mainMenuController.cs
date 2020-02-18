@@ -6,6 +6,8 @@ using UnityEngine.SceneManagement;
 
 public class mainMenuController : MonoBehaviour
 {
+    [SerializeField] AudioSource bgmSource;
+    [SerializeField] Slider slider;
     [SerializeField] public List<GameObject> panel = new List<GameObject>();
     [SerializeField] public List<GameObject> materiPanel = new List<GameObject>();
     public static int unlockedLvl = 1;
@@ -18,6 +20,11 @@ public class mainMenuController : MonoBehaviour
             turnOffOtherPanel(7);
         turnOffAllMaterialPanel(); //only turn on main menu
         GameUtility.totalBenar = 0;
+        if(GameUtility.currentVolume > 0)
+            bgmSource.volume = GameUtility.currentVolume;
+        else
+            GameUtility.currentVolume = bgmSource.volume;
+        slider.value = bgmSource.volume;
     }
     private void Update()
     {
@@ -79,7 +86,13 @@ public class mainMenuController : MonoBehaviour
             Debug.Log("Level Terkunci");
         }
     }
-
+    public void onVolumeChanged(){
+        bgmSource.volume = slider.value;
+        GameUtility.currentVolume = slider.value;
+    }
+    public void volumeChanger(){
+        slider.gameObject.SetActive(!slider.gameObject.activeSelf);
+    }
     public void onBackToMenu() { SceneManager.LoadScene("Main Menu"); }
 
 }

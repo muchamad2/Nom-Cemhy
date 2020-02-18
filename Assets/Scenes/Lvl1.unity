@@ -3404,7 +3404,7 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 17.65
+  m_fontSize: 19.9
   m_fontSizeBase: 24
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -3450,7 +3450,7 @@ MonoBehaviour:
     spaceCount: 129
     wordCount: 123
     linkCount: 0
-    lineCount: 18
+    lineCount: 19
     pageCount: 1
     materialCount: 2
   m_isUsingLegacyAnimationComponent: 0
@@ -3642,7 +3642,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 793447369}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7.4173355, y: -1.8800011, z: -10}
+  m_LocalPosition: {x: -9.873796, y: -1.8800011, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -6282,6 +6282,7 @@ MonoBehaviour:
   silverReward: {fileID: 0}
   rewardImg: {fileID: 0}
   minimBenar: 3
+  bgmSources: {fileID: 1805348287}
 --- !u!1 &1273518219
 GameObject:
   m_ObjectHideFlags: 0
@@ -8353,7 +8354,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1853239364}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7.4173355, y: -1.8800011, z: -10}
+  m_LocalPosition: {x: -9.873796, y: -1.8800011, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 183798888}
