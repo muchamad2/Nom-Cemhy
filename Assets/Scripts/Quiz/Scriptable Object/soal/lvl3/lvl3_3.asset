@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b04fa2e5ef92a0418f7348bbc3554e5, type: 3}
+  m_Name: lvl3_3
+  m_EditorClassIdentifier: 
+  tag: ID
+  unsur1: '?'
+  unsur2: 
+  unsur3: Apakah NO<sub>3</sub><sup>-</sup> dapat membentuk senyawa dengan Cu<sup>2+</sup>
+    ?
+  unsur4: "Menurut IUPAC senyawa tersebut mempunyai nama\u2026."
+  doubleSoal: 1
+  specialAfter: 0
+  dapatBereaksi: 1
+  pilA: a.Tembaga nitrat
+  pilB: b.Tembaga dinitrat
+  pilC: c.Trmbaga nitrit
+  pilD: d.Tembaga(II) nitrat
+  pilE: e.Tembaga(I) nitrat
+  pilBenar: 4

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b49856a5f6a178b48b25b5838729d897, type: 3}
+  m_Name: lvl2_penjelasan_20
+  m_EditorClassIdentifier: 
+  tag: ID
+  benar: "\r\r\n<sprite=8>\r\n\r\n\r\n\r\nBased on the picture above there are 1 carbon
+    atom and 4 Cl atom. So the structural formula is CCl<sub>4</sub>\r\nC = Carbon\r\nCl
+    = Chlorine\r\nBased on IUPAC rules that the first non-metallic element (C) is
+    named according to its name namely Carbon while the second non-metallic element
+    (Cl) is given the suffix -ide to Chloride followed by the mention of the index
+    of a number of elements. Because Chlorine has 4 atoms, the prefix is given tetra-
+    So the proper name is Carbon tetrachloride."
+  salah: "\r\r\n<sprite=8>\r\n\r\n\r\n\r\nBased on the picture above there are 1 carbon
+    atom and 4 Cl atom. So the structural formula is CCl<sub>4</sub>\r\nC = Carbon\r\nCl
+    = Chlorine\r\nBased on IUPAC rules that the first non-metallic element (C) is
+    named according to its name namely Carbon while the second non-metallic element
+    (Cl) is given the suffix -ide to Chloride followed by the mention of the index
+    of a number of elements. Because Chlorine has 4 atoms, the prefix is given tetra-
+    So the proper name is Carbon tetrachloride."

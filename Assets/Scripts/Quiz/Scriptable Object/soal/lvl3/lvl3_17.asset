@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b04fa2e5ef92a0418f7348bbc3554e5, type: 3}
+  m_Name: lvl3_17
+  m_EditorClassIdentifier: 
+  tag: ID
+  unsur1: 'Cu<sup>2+</sup> '
+  unsur2: SO<sub>4</sub><sup>2-</sup>
+  unsur3: 'Are these two compounds able to form a new bonded compound?
+
+    Cu<sup>2+</sup> + SO<sub>4</sub><sup>2-</sup>'
+  unsur4: The names of the compounds (Cu<sup>2+</sup> dan SO<sub>4</sub><sup>2-</sup>)
+    are ...
+  doubleSoal: 1
+  dualElenmeyer: 1
+  specialAfter: 0
+  dapatBereaksi: 1
+  pilA: a. Copper sulfide
+  pilB: b. Copper (II) sulfate
+  pilC: c. Copper sulfur tetraoxide
+  pilD: d. Copper Sulphate
+  pilE: e. Sulfite Copper
+  pilBenar: 2

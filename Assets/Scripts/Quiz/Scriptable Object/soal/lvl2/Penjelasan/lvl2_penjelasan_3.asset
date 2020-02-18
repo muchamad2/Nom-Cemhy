@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b49856a5f6a178b48b25b5838729d897, type: 3}
+  m_Name: lvl2_penjelasan_3
+  m_EditorClassIdentifier: 
+  tag: ID
+  benar: "\n<sprite=1>\r\n\r\n\n\n\n\r\n\r\nBerdasarkan gambar diatas karbon monoksida
+    memiliki rumus struktur CO.\r\nC = Karbon\r\nO = Oksigen\r\nBerdasarkan aturan
+    IUPAC bahwa unsur non-logam pertama (C) diberi nama sesuai dengan namanya yaitu
+    Karbon sementara unsur non-logam kedua (O) diberi akhiran \u2013ida menjadi Oksida
+    diikuti penyebutan indeks sejumlah unsur. Karena Oksigen tidak memiliki indeks
+    atau hanya berjumlah 1  maka awalannya diberi mono- Sehingga CO  rumus yang tepat
+    untuk nama Karbon monoksida."
+  salah: "\n<sprite=1>\r\n\r\n\n\r\n\r\nBerdasarkan gambar diatas karbon monoksida
+    memiliki rumus struktur CO.\r\nC = Karbon\r\nO = Oksigen\r\nBerdasarkan aturan
+    IUPAC bahwa unsur non-logam pertama (C) diberi nama sesuai dengan namanya yaitu
+    Karbon sementara unsur non-logam kedua (O) diberi akhiran \u2013ida menjadi Oksida
+    diikuti penyebutan indeks sejumlah unsur. Karena Oksigen tidak memiliki indeks
+    atau hanya berjumlah 1  maka awalannya diberi mono- Sehingga CO  rumus yang tepat
+    untuk nama Karbon monoksida."

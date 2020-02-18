@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b04fa2e5ef92a0418f7348bbc3554e5, type: 3}
+  m_Name: lvl3_9
+  m_EditorClassIdentifier: 
+  tag: ID
+  unsur1: '?'
+  unsur2: 
+  unsur3: "Nama senyawa dari anion SO<sub>4</sub><sup>2-</sup> yang berikatan dengan
+    asam adalah\u2026"
+  specialAfter: 0
+  dapatBereaksi: 0
+  pilA: a.Hidrogen sulphur tetraoksida
+  pilB: b.Dihidrogen sulfat tetraoksida
+  pilC: c.Asam tiosulfat
+  pilD: d.Asam sulfat
+  pilE: e.Asam sulfida tetraoksida
+  pilBenar: 4

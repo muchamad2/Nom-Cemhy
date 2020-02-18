@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b49856a5f6a178b48b25b5838729d897, type: 3}
+  m_Name: lvl2_penjelasan_16
+  m_EditorClassIdentifier: 
+  tag: ID
+  benar: "Di = 2\r\nnitrogen = N\r\ntri = 3\r\nOxide = O\r\nBased on the IUPAC rules
+    that the first non-metallic element (N) is named after its name ie Nitrogen while
+    the second non-metallic element (O) is given the suffix -ide to Oxide followed
+    by the mention of the index of a number of elements. Because Nitrogen has 2 elements,
+    the prefix is given di-, while Oxygen has 3 elements, so the prefix is given a
+    tri-. So the right formula is N<sub>2</sub>O<sub>3</sub>"
+  salah: "Di = 2\r\nnitrogen = N\r\ntri = 3\r\nOxide = O\r\nBased on the IUPAC rules
+    that the first non-metallic element (N) is named after its name ie Nitrogen while
+    the second non-metallic element (O) is given the suffix -ide to Oxide followed
+    by the mention of the index of a number of elements. Because Nitrogen has 2 elements,
+    the prefix is given di-, while Oxygen has 3 elements, so the prefix is given a
+    tri-. So the right formula is N<sub>2</sub>O<sub>3</sub>"

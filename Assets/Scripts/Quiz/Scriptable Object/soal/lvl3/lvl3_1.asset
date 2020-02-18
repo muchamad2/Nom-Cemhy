@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b04fa2e5ef92a0418f7348bbc3554e5, type: 3}
+  m_Name: lvl3_1
+  m_EditorClassIdentifier: 
+  tag: ID
+  unsur1: 'Fe<sup>3+</sup> '
+  unsur2: NO<sub>3</sub></sup>-</sup>
+  unsur3: 'Apakah kedua senyawa ini memungkinkan untuk  berikatan?
+
+
+    Fe<sup>3+</sup> + NO<sub>3</sub></sup>-</sup>'
+  unsur4: "Nama yang benar untuk senyawa Fe<sup>3+</sup> dan NO<sub>3</sub></sup>-</sup>
+    adalah\u2026"
+  doubleSoal: 1
+  dualElenmeyer: 1
+  specialAfter: 0
+  dapatBereaksi: 1
+  pilA: a.Besi nitrat
+  pilB: b.Besi trinitrat
+  pilC: c.Besi nitrit
+  pilD: d.Besi(II) nitrit
+  pilE: e.Besi(III) nitrat
+  pilBenar: 5

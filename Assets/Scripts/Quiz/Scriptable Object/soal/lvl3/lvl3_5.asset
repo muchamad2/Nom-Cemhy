@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b04fa2e5ef92a0418f7348bbc3554e5, type: 3}
+  m_Name: lvl3_5
+  m_EditorClassIdentifier: 
+  tag: ID
+  unsur1: PO<sub>4</sub><sup>3-</sup>
+  unsur2: 
+  unsur3: Jika senyawa yang kalian dapatkan (PO<sub>4</sub><sup>3-</sup>) berikatan
+    dengan Ca<sup>2+</sup> apakah dapat berikatan?
+  unsur4: Apa nama senyawa tersebut?
+  doubleSoal: 1
+  specialAfter: 0
+  dapatBereaksi: 1
+  pilA: a.Kalsium fosfat
+  pilB: b.Kalsium difosfat
+  pilC: 'c.Trikalsium difosfat '
+  pilD: d.Kalium fosfat
+  pilE: e.Kalium difosfat
+  pilBenar: 1

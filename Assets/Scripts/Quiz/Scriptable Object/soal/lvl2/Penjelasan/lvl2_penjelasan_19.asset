@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b49856a5f6a178b48b25b5838729d897, type: 3}
+  m_Name: lvl2_penjelasan_19
+  m_EditorClassIdentifier: 
+  tag: ID
+  benar: "\nP = Phosphorus\r\nS = Oxygen\r\nBased on IUPAC rules that the first non-metallic
+    element (P) is named according to its name ie Phosphorus while the second non-metallic
+    element (O) is suffixed -ide to Oxide followed by the mention of the index of
+    a number of elements. Because Phosphorus has an index of 2, the prefix is given
+    a di- while Oxygen has an index of 5, so the prefix is given a penta-. So the
+    proper name is Diphosphorus pentaoxide. (adding -us to phosphorus is a deal)"
+  salah: "\nP = Phosphorus\r\nS = Oxygen\r\nBased on IUPAC rules that the first non-metallic
+    element (P) is named according to its name ie Phosphorus while the second non-metallic
+    element (O) is suffixed -ide to Oxide followed by the mention of the index of
+    a number of elements. Because Phosphorus has an index of 2, the prefix is given
+    a di- while Oxygen has an index of 5, so the prefix is given a penta-. So the
+    proper name is Diphosphorus pentaoxide. (adding -us to phosphorus is a deal)"

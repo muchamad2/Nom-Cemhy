@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b04fa2e5ef92a0418f7348bbc3554e5, type: 3}
+  m_Name: nomor5a 1
+  m_EditorClassIdentifier: 
+  tag: ID
+  unsur1: Fe<sup>2+</sup>/Fe<sup>3+</sup>
+  unsur2: O<sup>2-</sup>
+  unsur3: 
+  unsur4: 
+  doubleSoal: 0
+  dualElenmeyer: 0
+  specialAfter: 0
+  dapatBereaksi: 1
+  pilA: Iron (II) Oxide, because Fe<sup>3+</sup> cannot bind to O<sup>2-</sup>
+  pilB: Iron (II) Oxide, because Fe<sup>3+</sup> cannot bind to O<sup>2-</sup>
+  pilC: Iron (II) Oxide and Iron (III) Oxide
+  pilD: Iron (II) Dioxide and Iron (III) Trioxide
+  pilE: Iron (III) Dioxide and Iron (II) Trioxide
+  pilBenar: 3

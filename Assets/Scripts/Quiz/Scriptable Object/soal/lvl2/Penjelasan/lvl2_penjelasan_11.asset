@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b49856a5f6a178b48b25b5838729d897, type: 3}
+  m_Name: lvl2_penjelasan_11
+  m_EditorClassIdentifier: 
+  tag: ID
+  benar: "<sprite=0>\r\n\r\n\r\n\r\n\r\n\r\nBased on these images, carbon dioxide
+    is one of the components needed in the process of photosynthesis with the chemical
+    formula is CO<sub>2</sub>.\r\nC = Carbon\r\nO = Oxygen\r\nBased on IUPAC rules
+    that the first non-metallic element (C) is named according to its name ie Carbon
+    while the second non-metallic element (O) is given the suffix -ide to Oxide followed
+    by the mention of the index of a number of elements. Because Oxygen has an index
+    of 2, the prefix is given di- so CO<sub>2</sub> is the right formula for the name
+    Carbon dioxide."
+  salah: "<sprite=0>\r\n\r\n\r\n\r\n\r\n\r\nBased on these images, carbon dioxide
+    is one of the components needed in the process of photosynthesis with the chemical
+    formula is CO<sub>2</sub>.\r\nC = Carbon\r\nO = Oxygen\r\nBased on IUPAC rules
+    that the first non-metallic element (C) is named according to its name ie Carbon
+    while the second non-metallic element (O) is given the suffix -ide to Oxide followed
+    by the mention of the index of a number of elements. Because Oxygen has an index
+    of 2, the prefix is given di- so CO<sub>2</sub> is the right formula for the name
+    Carbon dioxide."

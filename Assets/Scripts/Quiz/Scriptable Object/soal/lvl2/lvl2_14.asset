@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b04fa2e5ef92a0418f7348bbc3554e5, type: 3}
+  m_Name: lvl2_14
+  m_EditorClassIdentifier: 
+  tag: 
+  unsur1: 
+  unsur2: 
+  unsur3: '
+
+    The name of the IUPAC SiCl<sub>4</sub> compound is ...
+
+'
+  unsur4: 
+  doubleSoal: 0
+  dualElenmeyer: 0
+  specialAfter: 0
+  dapatBereaksi: 0
+  pilA: Silicon carbon dioxide
+  pilB: Chloride Silicon (IV)
+  pilC: Trichloride silicon
+  pilD: Silicon (IV) chloride
+  pilE: Silicon tetrachloride
+  pilBenar: 5

@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Main Menu Panel
+  - Panel Level
+  - tujuan
+  - aturan
+  - indikator
+  - Panel Soal 1
+  - Panel Soal 2
+  - Panel Soal
+  - SkorText
+  - Ground
+  - Panel Penjelasan
+  - Panel Benar
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3204206905
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1657151819
+    locked: 0
+  - name: Foreground
+    uniqueID: 4234151055
+    locked: 0

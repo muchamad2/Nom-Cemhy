@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b04fa2e5ef92a0418f7348bbc3554e5, type: 3}
+  m_Name: lvl2_15
+  m_EditorClassIdentifier: 
+  tag: 
+  unsur1: 
+  unsur2: 
+  unsur3: "Here are the names of compounds that are often heard in everyday life.
+    The name of the appropriate compound is ...\n\n    \t\r\n(a)<sprite=2>                                    (b)<sprite=3>\n\n
+    \    \n(c)<sprite=4>\n\n\n(d)<sprite=5>                               (e)<sprite=6>"
+  unsur4: 
+  doubleSoal: 0
+  dualElenmeyer: 0
+  specialAfter: 0
+  dapatBereaksi: 0
+  pilA: NaCl (table salt) = Sodium chloride
+  pilB: H<sub>2</sub>O(water) = Dihydro oxide
+  pilC: O<sub>3</sub> (ozone) = Trioxygen
+  pilD: NH<sub>3</sub> (ammonia) = Nitrogen hydrogen
+  pilE: SiO<sub>2</sub> (silicon) = Silica trioxide
+  pilBenar: 3

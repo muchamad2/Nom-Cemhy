@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b04fa2e5ef92a0418f7348bbc3554e5, type: 3}
+  m_Name: lvl3_21
+  m_EditorClassIdentifier: 
+  tag: ID
+  unsur1: BrO<sub>3</sub><sup>-</sup>
+  unsur2: 
+  unsur3: If the compound you find is bound to H+ the correct naming of the following
+    compounds is ...
+  unsur4: 
+  doubleSoal: 0
+  dualElenmeyer: 0
+  specialAfter: 0
+  dapatBereaksi: 0
+  pilA: a.HBrO<sub>3</sub> = Hypobromitic acid
+  pilB: b.HBrO<sub>3</sub> = Perbromic acid
+  pilC: c.HBrO<sub>3</sub> = Bromic acid
+  pilD: d.HBrO<sub>3</sub> = Bromium trioxide acid
+  pilE: e.HBrO<sub>3</sub> = Bromitic acid
+  pilBenar: 3

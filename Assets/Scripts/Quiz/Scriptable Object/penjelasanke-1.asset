@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b49856a5f6a178b48b25b5838729d897, type: 3}
+  m_Name: penjelasanke-1
+  m_EditorClassIdentifier: 
+  tag: ID
+  benar: "Na<sup>+</sup> = Natrium \r\nCl<sup>-</sup> = Klorin \r\nSesuai dengan aturan
+    IUPAC nama anion di beri akhiran -ida jadi nama senyawa ini adalah Natrium klorida\t"
+  salah: "Na<sup>+</sup> = Natrium \r\nCl<sup>-</sup> = Klorin \r\nsesuai dengan aturan
+    IUPAC nama anion di beri akhiran -ida jadi nama senyawa ini adalah Natrium klorida.\r\n\r\nMenurut
+    aturan IUPAC :\r\nApabila ada unsur ion yang berikatan ( kation dan anion) maka
+    tata nama untuk kation sama dengan nama unsur tersebt namun untuk senyawa anion
+    diberi akhiran \u2013ida. "
