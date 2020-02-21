@@ -3,14 +3,20 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.Video;
 
 public class mm : MonoBehaviour
 {
+    [Header("Materi Item References")]
     private int curIndex;
     public Sprite[] nextindikator;
     public Sprite[] indoImg;
     public Sprite[] engImg;
     public GameObject panel;
+    [Space]
+    [Header("Materi Video References")]
+    [SerializeField] VideoPlayer videoPlayer;
+    [SerializeField] AudioSource sourceAudio;
     // Start is called before the first frame update
     void Start()
     {
@@ -33,6 +39,8 @@ public class mm : MonoBehaviour
     public void onBackPressed()
     {
         gameObject.SetActive(false);
+        if(sourceAudio != null)
+            sourceAudio.Play();
     }
     public void nextIndi(int index)
     {
@@ -62,4 +70,15 @@ public class mm : MonoBehaviour
         }
         panel.GetComponent<Image>().sprite = nextindikator[curIndex];
     }
+    public void onPlayVideo(){
+        if(videoPlayer.isPlaying){
+            videoPlayer.Stop();
+            sourceAudio.Play();
+        }else{
+            videoPlayer.Play();
+            if(sourceAudio.isPlaying)
+                sourceAudio.Stop();
+        }
+    }
+    
 }

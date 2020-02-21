@@ -2377,6 +2377,7 @@ GameObject:
   m_Component:
   - component: {fileID: 542278486}
   - component: {fileID: 542278485}
+  - component: {fileID: 542278487}
   m_Layer: 0
   m_Name: SoalController
   m_TagString: Untagged
@@ -2477,6 +2478,34 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &542278487
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 542278484}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 530bc5e95b5d14a498ead1b6ab980b41, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  settingTexts:
+  - textArea: {fileID: 1813424494}
+    indoText: Apa nama senyawanya?
+    engText: What is the name of the compound?
+  - textArea: {fileID: 1601274355}
+    indoText: Ya
+    engText: Yes
+  - textArea: {fileID: 1264588425}
+    indoText: Tidak
+    engText: No
+  - textArea: {fileID: 656849603}
+    indoText: Lihat Penjelasan
+    engText: View Explanation
+  - textArea: {fileID: 729436556}
+    indoText: Lewati
+    engText: Skip
 --- !u!1 &609882998
 GameObject:
   m_ObjectHideFlags: 0

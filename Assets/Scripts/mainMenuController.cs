@@ -14,13 +14,13 @@ public class mainMenuController : MonoBehaviour
 
     private void Awake()
     {
-        if(GameUtility.isPlaying)
+        if (GameUtility.isPlaying)
             turnOffOtherPanel(4);
         else
             turnOffOtherPanel(7);
         turnOffAllMaterialPanel(); //only turn on main menu
         GameUtility.totalBenar = 0;
-        if(GameUtility.currentVolume > 0)
+        if (GameUtility.currentVolume > 0)
             bgmSource.volume = GameUtility.currentVolume;
         else
             GameUtility.currentVolume = bgmSource.volume;
@@ -28,7 +28,8 @@ public class mainMenuController : MonoBehaviour
     }
     private void Update()
     {
-        if(Input.GetKeyDown(KeyCode.Escape)){
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
             GameUtility.isPlaying = false;
             Application.Quit();
         }
@@ -41,19 +42,23 @@ public class mainMenuController : MonoBehaviour
         }
         panel[indexOn].SetActive(true);
     }
-    void turnOffOtherMateriPanel(int indexOn){
-        foreach(var item in materiPanel){
+    void turnOffOtherMateriPanel(int indexOn)
+    {
+        foreach (var item in materiPanel)
+        {
             item.SetActive(false);
         }
         materiPanel[indexOn].SetActive(true);
     }
-    void turnOffAllMaterialPanel(){
+    void turnOffAllMaterialPanel()
+    {
         foreach (var item in materiPanel)
         {
             item.SetActive(false);
         }
     }
-    public void onMateriButtonPressed(int index){
+    public void onMateriButtonPressed(int index)
+    {
         turnOffOtherMateriPanel(index);
     }
     public void onButtonPressed(int index)
@@ -66,11 +71,13 @@ public class mainMenuController : MonoBehaviour
         turnOffOtherPanel(4);
         turnOffAllMaterialPanel();
     }
-    public void LanguageSelect(string choose){
-        if(choose == "id")
+    public void LanguageSelect(string choose)
+    {
+        if (choose == "id")
             GameUtility.lang = GameUtility.Language.Indo;
-        else if(choose == "en"){
-            GameUtility.lang = GameUtility.Language.Eng; 
+        else if (choose == "en")
+        {
+            GameUtility.lang = GameUtility.Language.Eng;
         }
     }
 
@@ -86,13 +93,19 @@ public class mainMenuController : MonoBehaviour
             Debug.Log("Level Terkunci");
         }
     }
-    public void onVolumeChanged(){
+    public void onVolumeChanged()
+    {
         bgmSource.volume = slider.value;
         GameUtility.currentVolume = slider.value;
     }
-    public void volumeChanger(){
+    public void volumeChanger()
+    {
         slider.gameObject.SetActive(!slider.gameObject.activeSelf);
     }
     public void onBackToMenu() { SceneManager.LoadScene("Main Menu"); }
+    public void onPlayVideo(int id)
+    {
+        turnOffOtherMateriPanel(id);
+    }
 
 }

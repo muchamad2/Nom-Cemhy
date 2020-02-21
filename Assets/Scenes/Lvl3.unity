@@ -5351,6 +5351,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1248114253}
   - component: {fileID: 1248114252}
+  - component: {fileID: 1248114254}
   m_Layer: 0
   m_Name: SoalController
   m_TagString: Untagged
@@ -5486,6 +5487,31 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1248114254
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1248114251}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 530bc5e95b5d14a498ead1b6ab980b41, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  settingTexts:
+  - textArea: {fileID: 1088271879}
+    indoText: Ya
+    engText: Yes
+  - textArea: {fileID: 2129651228}
+    indoText: Tidak
+    engText: No
+  - textArea: {fileID: 194280037}
+    indoText: Lihat Penjelasan
+    engText: View Explanation
+  - textArea: {fileID: 1294767850}
+    indoText: Lewati
+    engText: Skip
 --- !u!1 &1256511491
 GameObject:
   m_ObjectHideFlags: 0
@@ -5944,7 +5970,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.000030517578, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: -400, y: -50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1284810759
