@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   tag: ID
   unsur1: 'Fe<sup>3+</sup> '
-  unsur2: NO<sub>3</sub></sup>-</sup>
+  unsur2: NO<sub>3</sub><sup>-</sup>
   unsur3: 'Apakah kedua senyawa ini memungkinkan untuk  berikatan?
 
 
-    Fe<sup>3+</sup> + NO<sub>3</sub></sup>-</sup>'
-  unsur4: "Nama yang benar untuk senyawa Fe<sup>3+</sup> dan NO<sub>3</sub></sup>-</sup>
+    Fe<sup>3+</sup> + NO<sub>3</sub><sup>-</sup>'
+  unsur4: "Nama yang benar untuk senyawa Fe<sup>3+</sup> dan NO<sub>3</sub><sup>-</sup>
     adalah\u2026"
   doubleSoal: 1
   dualElenmeyer: 1

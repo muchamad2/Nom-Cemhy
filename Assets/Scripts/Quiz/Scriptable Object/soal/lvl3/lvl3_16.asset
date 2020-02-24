@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   tag: ID
   unsur1: 'Fe<sup>3+</sup> '
-  unsur2: NO<sub>3</sub></sup>-</sup>
+  unsur2: NO<sub>3</sub><sup>-</sup>
   unsur3: 'Are these two compounds possible to bind?
 
 
-    Fe<sup>3+</sup> + NO<sub>3</sub></sup>-</sup>'
-  unsur4: The correct name for the compound Fe<sup>3+</sup> and NO<sub>3</sub></sup>-</sup>
+    Fe<sup>3+</sup> + NO<sub>3</sub><sup>-</sup>'
+  unsur4: The correct name for the compound Fe<sup>3+</sup> and NO<sub>3</sub><sup>-</sup>
     is ...
   doubleSoal: 1
   dualElenmeyer: 1

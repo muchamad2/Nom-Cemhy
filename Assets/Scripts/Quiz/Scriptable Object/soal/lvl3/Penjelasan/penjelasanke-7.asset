@@ -14,9 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   tag: ID
   benar: "Hidrogen = H<sub>2</sub> = H<sup>+</sup> = Asam \r\nKlorat = ClO<sub>3</sub><sup>-</sup>\r\nsesuai
-    dengan aturan IUPAC bahwa untuk senyawa poliatomik nama kation untuk H+ (dari
-    unsur Hidrogen) maka diberi nama Asam (tanpa romawi karena bukan unsur transisi)
-    nama klorat (anion) memliki rumus ClO3- Sehingga, rumus senyawa ini adalah HClO3\r\n"
+    dengan aturan IUPAC bahwa untuk senyawa poliatomik nama kation untuk H<sup>+</sup>
+    (dari unsur Hidrogen) maka diberi nama Asam (tanpa romawi karena bukan unsur transisi)
+    nama klorat (anion) memliki rumus ClO<sub>3</sub><sup>-</sup> Sehingga, rumus
+    senyawa ini adalah HClO<sub>3</sub>"
   salah: "Hidrogen = H<sub>2</sub> = H<sup>+</sup> = Asam \r\nKlorat = ClO<sub>3</sub><sup>-</sup>\r\nsesuai
     dengan aturan IUPAC bahwa untuk senyawa poliatomik nama kation untuk H<sup>+</sup>
     (dari unsur Hidrogen) maka diberi nama Asam (tanpa romawi karena bukan unsur transisi)

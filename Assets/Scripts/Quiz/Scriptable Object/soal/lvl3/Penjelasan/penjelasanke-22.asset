@@ -13,12 +13,15 @@ MonoBehaviour:
   m_Name: penjelasanke-22
   m_EditorClassIdentifier: 
   tag: ID
-  benar: "Hidrogen = H<sub>2</sub> = H<sup>+</sup> = Asam \r\nKlorat = ClO<sub>3</sub><sup>-</sup>\r\nsesuai
-    dengan aturan IUPAC bahwa untuk senyawa poliatomik nama kation untuk H+ (dari
-    unsur Hidrogen) maka diberi nama Asam (tanpa romawi karena bukan unsur transisi)
-    nama klorat (anion) memliki rumus ClO3- Sehingga, rumus senyawa ini adalah HClO3\r\n"
-  salah: "Hidrogen = H<sub>2</sub> = H<sup>+</sup> = Asam \r\nKlorat = ClO<sub>3</sub><sup>-</sup>\r\nsesuai
-    dengan aturan IUPAC bahwa untuk senyawa poliatomik nama kation untuk H<sup>+</sup>
-    (dari unsur Hidrogen) maka diberi nama Asam (tanpa romawi karena bukan unsur transisi)
-    nama klorat (anion) memliki rumus ClO<sub>3</sub><sup>-</sup> Sehingga, rumus
-    senyawa ini adalah HClO<sub>3</sub>\r\n"
+  benar: "Hydrogen = H<sub>2</sub> = H<sup>+</sup> = Acid\r\nChlorate = ClO<sub>3</sub><sup>-</sup>\r\nin
+    accordance with IUPAC rules that for polyatomic compounds the name of the cation
+    for H<sup>+</sup> (from the element Hydrogen) is given the name Acid (without
+    roman because it is not a transition element) the name of the chlorate (anion)
+    has the formula ClO<sub>3</sub> <sup> - </sup> Thus, the formula for this compound
+    is HClO <sub> 3 </sub>"
+  salah: "Hydrogen = H <sub>2</sub> = H<sup>+</sup> = Acid\r\nChlorate = ClO <sub>3</sub><sup>-</sup>\r\nin
+    accordance with IUPAC rules that for polyatomic compounds the name of the cation
+    for H<sup>+</sup> (from the element Hydrogen) is given the name Acid (without
+    roman because it is not a transition element) the name of the chlorate (anion)
+    has the formula ClO<sub>3</sub><sup>-</sup> Thus, the formula for this compound
+    is HClO<sub>3</sub>"

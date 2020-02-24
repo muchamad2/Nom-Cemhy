@@ -67,13 +67,9 @@ public class ElenPooler : MonoBehaviour
         objQue.Enqueue(obj);
     }
     public void SpesialPoolGetback(GameObject obj){
-        obj.gameObject.SetActive(true);
+        obj.gameObject.SetActive(false);
         objQue.Enqueue(obj);
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+
 }

@@ -21,12 +21,15 @@ public class GameManager : MonoBehaviour
     [SerializeField]
     private GameObject panelReward;
     [SerializeField]
+    //public GameObject gameReward;
+
     private TextMeshProUGUI rewardText;
     [SerializeField]
     private Sprite goldReward;
     [SerializeField]
     private Sprite silverReward;
     public Image rewardImg;
+
     [Space]
     [Header("Current Stage References")]
     public int minimBenar;
@@ -53,6 +56,7 @@ public class GameManager : MonoBehaviour
                 gameDone.SetActive(false);
             if(gameOver.activeInHierarchy)
                 gameOver.SetActive(false);
+            
         }
         bgmSources.volume = GameUtility.currentVolume;
     }
@@ -90,6 +94,7 @@ public class GameManager : MonoBehaviour
     }
     public void showGameOverReward(){
         panelReward.SetActive(true);
+        //gameReward.SetActive(false);
         gameDone.SetActive(false);
         gameOver.SetActive(true);
         switch (GameUtility.lang)

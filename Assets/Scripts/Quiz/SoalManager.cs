@@ -275,7 +275,7 @@ public class SoalManager : MonoBehaviour
             switch (GameUtility.lang)
             {
                 case GameUtility.Language.Indo:
-                    soal1Text.SetText("Apakah kedua unsur ini bisa berkaitan?");
+                    soal1Text.SetText("Apakah kedua unsur ini bisa berikatan?");
                     break;
                 case GameUtility.Language.Eng:
                     soal1Text.SetText("Are these two compounds possible to bind?");
