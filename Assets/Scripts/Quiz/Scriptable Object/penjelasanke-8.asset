@@ -13,13 +13,13 @@ MonoBehaviour:
   m_Name: penjelasanke-8
   m_EditorClassIdentifier: 
   tag: ID
-  benar: "Al<sup>3+</sup> = Aluminium\r\nO<sup>2-</sup> = Oksigen\r\nIn accordance
+  benar: "Al<sup>3+</sup> = Aluminium \r\nO<sup>2-</sup> = Oxygen \r\nIn accordance
     with the IUPAC rules the name anion is given the suffix -ide so the name of this
     compound is Aluminium Oxide"
-  salah: "\r\nAl<sup>3+</sup> = Aluminium\r\nO<sup>2-</sup> = Oksigen\r\nIn accordance
+  salah: "Al<sup>3+</sup> = Aluminium \r\nO<sup>2-</sup> = Oxygen \r\nIn accordance
     with the IUPAC rules the name anion is given the suffix -ide so the name of this
-    compound is Aluminium Oxide\r\n\r\nAccording to IUPAC rules:\r\nIf there are binding
-    ionic elements (cations and anions), the nomenclature for the cation is the same
-    as the name of the element, but for the anion compound it is given the -ide suffix.
-    \r\nIn addition, the number of elements doesn\u2019t need to be mentioned. (mono,
-    di, tri)"
+    compound is Aluminium Oxide \r\n\r\nAccording to IUPAC rules:\r\nIf there are
+    binding ionic elements (cations and anions), the nomenclature for the cation is
+    the same as the name of the element, but for the anion compound it is given the
+    -ide suffix.\r\nIn addition, the number of elements doesn\u2019t need to be mentioned.
+    (mono, di, tri)"

@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   tag: ID
   benar: "Barium = B\r\nHidroksida = OH<sup>-</sup>\r\nSehingga jika dua senyawa tersebut
-    berikatan akan membentuk senyawa B(OH)<sub>2</sub>\r\n"
+    berikatan akan membentuk senyawa <nobr><b>Ba(OH)<sub>2</sub>\r</b></nobr>\n"
   salah: "Barium = B\r\nHidroksida = OH<sup>-</sup>\r\nSehingga jika dua senyawa tersebut
-    berikatan akan membentuk senyawa B(OH)<sub>2</sub>\r\n"
+    berikatan akan membentuk senyawa <nobr><b>Ba(OH)<sub>2</sub>\r</b></nobr>\n"

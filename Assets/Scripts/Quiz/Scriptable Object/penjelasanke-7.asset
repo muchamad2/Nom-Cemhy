@@ -13,13 +13,13 @@ MonoBehaviour:
   m_Name: penjelasanke-7
   m_EditorClassIdentifier: 
   tag: ID
-  benar: "Mg<sup>2+</sup> = Magnesium\r\nS<sup>-</sup> = Sulfur\r\nIn accordance with
-    the IUPAC rules the name anion is given the uffix -ide so the name of this compound
-    is Magnesium Sulfide"
-  salah: "Mg<sup>2+</sup> = Magnesium\r\nS<sup>-</sup> = Sulfur \r\nIn accordance
-    with the IUPAC rules the anion is given the suffix -ide so the name of this compound
-    is Magnesium Sulfide\r\n\r\nAccording to IUPAC rules:\r\nIf there are binding
-    ionic elements (cations and anions), the nomenclature for the cation is the same
-    as the name of the element, but for the anion compound it is given the -ide suffix.
-    \r\nIn addition, the number of elements doesn\u2019t need to be mentioned. (mono,
-    di, tri)\r\n"
+  benar: "Mg<sup>2+</sup> = Magnesium\r\nS<sup>2-</sup> = Sulfur \r\nIn accordance
+    with the IUPAC rules the name anion is given the suffix -ide so the name of this
+    compound is Magnesium Sulfide"
+  salah: "Mg<sup>2+</sup> = Magnesium\r\nS<sup>2-</sup> = Sulfur \r\nIn accordance
+    with the IUPAC rules the name anion is given the suffix -ide so the name of this
+    compound is Magnesium Sulfide \r\n\r\nAccording to IUPAC rules:\r\nIf there are
+    binding ionic elements (cations and anions), the nomenclature for the cation is
+    the same as the name of the element, but for the anion compound it is given the
+    -ide suffix.\r\nIn addition, the number of elements doesn\u2019t need to be mentioned.
+    (mono, di, tri)"

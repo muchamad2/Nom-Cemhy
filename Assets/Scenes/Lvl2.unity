@@ -213,7 +213,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 3.59, y: 8.76022}
+    oldSize: {x: 3.594536, y: 8.759999}
     newSize: {x: 4.9199996, y: 8.420211}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -1477,6 +1477,7 @@ GameObject:
   - component: {fileID: 269833265}
   - component: {fileID: 269833264}
   - component: {fileID: 269833263}
+  - component: {fileID: 269833266}
   m_Layer: 5
   m_Name: penjelasan
   m_TagString: Panel Penjelasan
@@ -1502,7 +1503,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: -0.5}
-  m_SizeDelta: {x: -190.2, y: -15.9}
+  m_SizeDelta: {x: -100, y: -151.70169}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &269833263
 MonoBehaviour:
@@ -1553,6 +1554,24 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 269833261}
   m_CullTransparentMesh: 0
+--- !u!114 &269833266
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 269833261}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c67f92c90ba22c34b86fe108c9ee136b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Text: {fileID: 373992990}
+  ResizeTextObject: 1
+  Padding: {x: 0, y: 0}
+  MaxSize: {x: 700, y: 450}
+  MinSize: {x: 0, y: 0}
+  ControlAxes: 3
 --- !u!1 &271797808
 GameObject:
   m_ObjectHideFlags: 0
@@ -2363,7 +2382,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: -50.2, y: -35.7}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &373992990
 MonoBehaviour:
@@ -2466,7 +2485,7 @@ MonoBehaviour:
     spaceCount: 96
     wordCount: 97
     linkCount: 0
-    lineCount: 19
+    lineCount: 15
     pageCount: 1
     materialCount: 2
   m_isUsingLegacyAnimationComponent: 0
@@ -5810,7 +5829,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1127444786}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.873796, y: -1.8800011, z: -10}
+  m_LocalPosition: {x: -9.869118, y: -1.8800011, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 622909683}
@@ -6611,7 +6630,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1256511491}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -14.456324, y: -1.8799992, z: -10}
+  m_LocalPosition: {x: -14.448528, y: -1.8799992, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}

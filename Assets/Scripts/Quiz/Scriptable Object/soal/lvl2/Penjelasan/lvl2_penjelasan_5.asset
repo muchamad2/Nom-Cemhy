@@ -13,21 +13,21 @@ MonoBehaviour:
   m_Name: lvl2_penjelasan_5
   m_EditorClassIdentifier: 
   tag: ID
-  benar: "a.NaCl (garam dapur) = Natrium klorida\r\nSesuai aturan IUPAC akhiran unsur
-    kedua diberi -ida\r\nb.H<sub>2</sub>O(air) = Dihidro oksida\r\nSesuai IUPAC nama
-    H2O telah disepakati menjadi air\r\nc.O<sub>3</sub> (ozon) = Trioksigen\r\nSesuai
+  benar: "a.  NaCl (garam dapur) = Natrium klorida\r\nSesuai aturan IUPAC akhiran
+    unsur kedua diberi -ida\r\nb.  H<sub>2</sub>O(air) = Dihidro oksida\r\nSesuai
+    IUPAC nama H2O telah disepakati menjadi air\r\nc.  O<sub>3</sub> (ozon) = Trioksigen\r\nSesuai
     aturan IUPAC bahwa indeks disebutkan di awal nama senyawa. Sehingga nama ozon
-    dalam IUPAC adalah trioksgen. \r\nd.NH<sub>3</sub> (amoniak) = Nitrogen hydrogen\r\nAmoniak
-    telah disepakati menjadi nama IUPAC untuk NH3.\r\ne.SiO<sub>2</sub> (silikon)
+    dalam IUPAC adalah trioksgen. \r\nd.  NH<sub>3</sub> (amoniak) = Nitrogen hydrogen\r\nAmoniak
+    telah disepakati menjadi nama IUPAC untuk NH3.\r\ne.  SiO<sub>2</sub> (silikon)
     = Silika trioksida\r\nSesuai aturan IUPAC nama non-logam pertama diebutkan sesuai
-    nama unsurnya dan unsur non-logam kedua diberi awalan indeks dan akhiran \u2013ida,
-    karena indeks berjumlah 2 maka nama yang sesuai adalah Silika dioksida."
-  salah: "a.NaCl (garam dapur) = Natrium klorida\r\nSesuai aturan IUPAC akhiran unsur
-    kedua diberi -ida\r\nb.H<sub>2</sub>O(air) = Dihidro oksida\r\nSesuai IUPAC nama
-    H2O telah disepakati menjadi air\r\nc.O<sub>3</sub> (ozon) = Trioksigen\r\nSesuai
+    nama unsurnya dan unsur non-logam kedua diberi awalan indeks dan akhiran <nobr><b>\u2013ida</b></nobr>,
+    karena indeks berjumlah 2 maka nama yang sesuai adalah <nobr><b>Silika dioksida</b></nobr>."
+  salah: "a.  NaCl (garam dapur) = Natrium klorida\r\nSesuai aturan IUPAC akhiran
+    unsur kedua diberi -ida\r\nb.  H<sub>2</sub>O(air) = Dihidro oksida\r\nSesuai
+    IUPAC nama H2O telah disepakati menjadi air\r\nc.  O<sub>3</sub> (ozon) = Trioksigen\r\nSesuai
     aturan IUPAC bahwa indeks disebutkan di awal nama senyawa. Sehingga nama ozon
-    dalam IUPAC adalah trioksgen. \r\nd.NH<sub>3</sub> (amoniak) = Nitrogen hydrogen\r\nAmoniak
-    telah disepakati menjadi nama IUPAC untuk NH3.\r\ne.SiO<sub>2</sub> (silikon)
+    dalam IUPAC adalah trioksgen. \r\nd.  NH<sub>3</sub> (amoniak) = Nitrogen hydrogen\r\nAmoniak
+    telah disepakati menjadi nama IUPAC untuk NH3.\r\ne.  SiO<sub>2</sub> (silikon)
     = Silika trioksida\r\nSesuai aturan IUPAC nama non-logam pertama diebutkan sesuai
-    nama unsurnya dan unsur non-logam kedua diberi awalan indeks dan akhiran \u2013ida,
-    karena indeks berjumlah 2 maka nama yang sesuai adalah Silika dioksida."
+    nama unsurnya dan unsur non-logam kedua diberi awalan indeks dan akhiran <nobr><b>\u2013ida</b></nobr>,
+    karena indeks berjumlah 2 maka nama yang sesuai adalah <nobr><b>Silika dioksida</b></nobr>."

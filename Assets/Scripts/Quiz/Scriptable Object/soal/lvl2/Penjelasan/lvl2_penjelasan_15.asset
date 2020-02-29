@@ -13,24 +13,24 @@ MonoBehaviour:
   m_Name: lvl2_penjelasan_15
   m_EditorClassIdentifier: 
   tag: ID
-  benar: "a.NaCl (table salt) = Sodium chloride\r\nAccording to IUPAC rules the suffix
-    of the second element is given an -ida\r\nb.H<sub>2</sub>O(water) = Dihydro oxide\r\nAccording
-    to IUPAC the name H<sub>2</sub>O has been agreed to be water\r\nc.O<sub>3</sub>
+  benar: "a.   NaCl (table salt) = Sodium chloride\r\nAccording to IUPAC rules the
+    suffix of the second element is given an id\r\nb.   H<sub>2</sub>O (water) = Dihydro
+    oxide\r\nAccording to IUPAC the name H2O has been agreed to be water\r\nc.   O<sub>3</sub>
     (ozone) = Trioxygen\r\nIt is in accordance with IUPAC rules that the index is
     mentioned at the beginning of the compound name. So the name of ozone in IUPAC
-    is trioksgen.\r\nd.NH<sub>3</sub> (ammonia) = Nitrogen hydrogen\r\nAmmonia has
-    been agreed to be the IUPAC name for NH<sub>3</sub>.\r\ne.SiO<sub>2</sub> (silicon)
+    is trioksgen.\r\nd.   NH<sub>3</sub> (ammonia) = Nitrogen hydrogen\r\nAmmonia
+    has been agreed to be the IUPAC name for NH3.\r\ne.   SiO<sub>2</sub> (silicon)
     = Silica trioxide\r\nAccording to IUPAC rules, the first non-metallic name is
     stated according to the name of the element and the second non-metallic element
     is given the prefix and -ida suffix, because the index is 2, the appropriate name
     is Silica dioxide."
-  salah: "a.NaCl (table salt) = Sodium chloride\r\nAccording to IUPAC rules the suffix
-    of the second element is given an -ida\r\nb.H<sub>2</sub>O(water) = Dihydro oxide\r\nAccording
-    to IUPAC the name H<sub>2</sub>O has been agreed to be water\r\nc.O<sub>3</sub>
+  salah: "a.   NaCl (table salt) = Sodium chloride\r\nAccording to IUPAC rules the
+    suffix of the second element is given an id\r\nb.   H<sub>2</sub>O (water) = Dihydro
+    oxide\r\nAccording to IUPAC the name H2O has been agreed to be water\r\nc.   O<sub>3</sub>
     (ozone) = Trioxygen\r\nIt is in accordance with IUPAC rules that the index is
     mentioned at the beginning of the compound name. So the name of ozone in IUPAC
-    is trioksgen.\r\nd.NH<sub>3</sub> (ammonia) = Nitrogen hydrogen\r\nAmmonia has
-    been agreed to be the IUPAC name for NH<sub>3</sub>.\r\ne.SiO<sub>2</sub> (silicon)
+    is trioksgen.\r\nd.   NH<sub>3</sub> (ammonia) = Nitrogen hydrogen\r\nAmmonia
+    has been agreed to be the IUPAC name for NH3.\r\ne.   SiO<sub>2</sub> (silicon)
     = Silica trioxide\r\nAccording to IUPAC rules, the first non-metallic name is
     stated according to the name of the element and the second non-metallic element
     is given the prefix and -ida suffix, because the index is 2, the appropriate name

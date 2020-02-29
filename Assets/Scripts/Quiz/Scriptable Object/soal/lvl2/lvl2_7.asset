@@ -16,8 +16,12 @@ MonoBehaviour:
   unsur1: 
   unsur2: 
   unsur3: "\nNama IUPAC dari CS<sub>2</sub> adalah\u2026\n"
+  unsur4: 
+  doubleSoal: 0
+  dualElenmeyer: 0
+  specialAfter: 0
   dapatBereaksi: 0
-  pilA: Karbon sulfate
+  pilA: Karbon sulfat
   pilB: Karbon disulfur
   pilC: Dikarbon disulfit
   pilD: Karbon disulfida

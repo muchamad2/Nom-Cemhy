@@ -13,13 +13,13 @@ MonoBehaviour:
   m_Name: lvl2_penjelasan_19
   m_EditorClassIdentifier: 
   tag: ID
-  benar: "\nP = Phosphorus\r\nS = Oxygen\r\nBased on IUPAC rules that the first non-metallic
+  benar: "P = Phosphorus\r\nS = Oxygen\r\nBased on IUPAC rules that the first non-metallic
     element (P) is named according to its name ie Phosphorus while the second non-metallic
     element (O) is suffixed -ide to Oxide followed by the mention of the index of
     a number of elements. Because Phosphorus has an index of 2, the prefix is given
     a di- while Oxygen has an index of 5, so the prefix is given a penta-. So the
     proper name is Diphosphorus pentaoxide. (adding -us to phosphorus is a deal)"
-  salah: "\nP = Phosphorus\r\nS = Oxygen\r\nBased on IUPAC rules that the first non-metallic
+  salah: "P = Phosphorus\r\nS = Oxygen\r\nBased on IUPAC rules that the first non-metallic
     element (P) is named according to its name ie Phosphorus while the second non-metallic
     element (O) is suffixed -ide to Oxide followed by the mention of the index of
     a number of elements. Because Phosphorus has an index of 2, the prefix is given

@@ -2437,9 +2437,9 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 13fdccab70642cb419a60c0168b520dd, type: 2}
   - {fileID: 11400000, guid: a274e942c6cb63a4986357d8a6484385, type: 2}
   - {fileID: 11400000, guid: d2068c4692187164495b900520d44d95, type: 2}
-  - {fileID: 11400000, guid: ae3bf2a7dea91ba4a9ba9b72671ba6b2, type: 2}
   - {fileID: 11400000, guid: 17e7c1bb92e1855458e85e5359bd8185, type: 2}
   - {fileID: 11400000, guid: 18494b5d8437c05458c8c55fddac60d4, type: 2}
+  - {fileID: 11400000, guid: ae3bf2a7dea91ba4a9ba9b72671ba6b2, type: 2}
   penjelasanId:
   - {fileID: 11400000, guid: d7f20034357294046beb79db64e0d3a7, type: 2}
   - {fileID: 11400000, guid: 37f237ae6f51289429eeb94f4ce5011b, type: 2}
@@ -2451,9 +2451,9 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 54036bc0014d06c419c5183020debd6c, type: 2}
   - {fileID: 11400000, guid: fe44a3dff0af2b544a24818837a7aa11, type: 2}
   - {fileID: 11400000, guid: 4867cff88816fe642be517161b7e6554, type: 2}
-  - {fileID: 11400000, guid: e4dff6df5a55aa64db035fdf10721f52, type: 2}
   - {fileID: 11400000, guid: 5f6d6a22ae498994cb14076c7d3468ee, type: 2}
   - {fileID: 11400000, guid: 2344875d29c2e0b4dab931d7f5fdf424, type: 2}
+  - {fileID: 11400000, guid: e4dff6df5a55aa64db035fdf10721f52, type: 2}
   penjelasanEn:
   - {fileID: 11400000, guid: 493a850b398dc324aa8fc2e02c065814, type: 2}
   - {fileID: 11400000, guid: 1cee48bfa1d1a5d4cb60237ac53178db, type: 2}
@@ -2810,7 +2810,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 4.9199996, y: 8.420211}
+    oldSize: {x: 4.9262166, y: 8.419999}
     newSize: {x: 4.9199996, y: 8.420211}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -3577,8 +3577,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.5, y: -0.29992676}
-  m_SizeDelta: {x: -43.1, y: -34.3}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &760901724
 MonoBehaviour:
@@ -3598,17 +3598,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Antara kation yang biloksnya berbeda di dalam larutan tidak dapat membenttuk
-    senyawa.\r\nFe = Besi \r\nO<sup>2-</sup> = Oksigen\r\nFe<sup>2+</sup> dan Fe<sup>3+</sup>
-    dapat berikatan dengan O<sup>2-</sup>\r\nKarena adanya muatan 2+ dan 3+ maka sesuai
-    dengan aturan IUPAC nama kation diberi angka romawi (II) jika muatanya 2+ dan
-    (III) jika muatannya 3+ sedangkan anion di beri akhiran -ida jadi senyawa ini
-    adalah FeO = Besi (II) Oksida dan Fe<sub>2</sub>O<sub>3</sub> = Besi(III) Oksida\r\n\r\nMenurut
-    aturan IUPAC :\r\nApabila ada unsur ion yang berikatan ( kation dan anion) maka
-    tata nama untuk kation sama dengan nama unsur tersebt namun untuk senyawa anion
-    diberi akhiran \u2013ida. \r\nSelain itu jumlah unsur tidak perlu disebutkan jumlahnya.
-    (mono, di, tri)\r\nNamun, diberi angka romawi kurung (II)/(III) karena unsur ini
-    memiliki dua muatan sehingga dapat dibedakan,"
+  m_text: "Al<sup>3+ </sup>= Aluminium \r\nO<sup>2- </sup>= Oksigen \r\nSesuai dengan
+    aturan IUPAC nama anion di beri akhiran -ida jadi senyawa ini adalah Aluminium
+    Oksida"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 03daa6fbbbd96e24e90006f397587ee0, type: 2}
   m_sharedMaterial: {fileID: 8020609026998247488, guid: 03daa6fbbbd96e24e90006f397587ee0,
@@ -3637,10 +3629,10 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 19.9
-  m_fontSizeBase: 24
+  m_fontSize: 19
+  m_fontSizeBase: 19
   m_fontWeight: 400
-  m_enableAutoSizing: 1
+  m_enableAutoSizing: 0
   m_fontSizeMin: 12
   m_fontSizeMax: 30
   m_fontStyle: 0
@@ -3652,7 +3644,7 @@ MonoBehaviour:
   m_paragraphSpacing: 0
   m_charWidthMaxAdj: 0
   m_enableWordWrapping: 1
-  m_wordWrappingRatios: 0.041
+  m_wordWrappingRatios: 0.5
   m_overflowMode: 0
   m_firstOverflowCharacterIndex: -1
   m_linkedTextComponent: {fileID: 0}
@@ -3675,17 +3667,17 @@ MonoBehaviour:
   m_firstVisibleCharacter: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 5, y: 5, z: 5, w: 5}
   m_textInfo:
     textComponent: {fileID: 760901724}
-    characterCount: 788
+    characterCount: 134
     spriteCount: 0
-    spaceCount: 129
-    wordCount: 123
+    spaceCount: 23
+    wordCount: 20
     linkCount: 0
-    lineCount: 19
+    lineCount: 4
     pageCount: 1
-    materialCount: 2
+    materialCount: 1
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_spriteAnimator: {fileID: 0}
@@ -3875,7 +3867,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 793447369}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.873796, y: -1.8800011, z: -10}
+  m_LocalPosition: {x: -9.869118, y: -1.8800011, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -7949,6 +7941,7 @@ GameObject:
   - component: {fileID: 1694367458}
   - component: {fileID: 1694367461}
   - component: {fileID: 1694367460}
+  - component: {fileID: 1694367459}
   m_Layer: 5
   m_Name: penjelasan
   m_TagString: Panel Penjelasan
@@ -7971,11 +7964,29 @@ RectTransform:
   m_Father: {fileID: 238880940}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 3.7999878, y: 5.7700195}
-  m_SizeDelta: {x: -161.8, y: -47.5}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 705, y: 87.42}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1694367459
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1694367457}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c67f92c90ba22c34b86fe108c9ee136b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Text: {fileID: 760901724}
+  ResizeTextObject: 1
+  Padding: {x: 5, y: 5}
+  MaxSize: {x: 700, y: 402}
+  MinSize: {x: 150, y: 20}
+  ControlAxes: 3
 --- !u!114 &1694367460
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8903,7 +8914,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1853239364}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.873796, y: -1.8800011, z: -10}
+  m_LocalPosition: {x: -9.869118, y: -1.8800011, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 183798888}

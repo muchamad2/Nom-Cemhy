@@ -24,7 +24,7 @@ MonoBehaviour:
   dapatBereaksi: 0
   pilA: Carbon trichloride
   pilB: Carbon tetrachloride
-  pilC: Carbon (IV) chloride
-  pilD: Carbon chloride (IV)
+  pilC: Carbon(IV) chloride
+  pilD: Carbon chloride(IV)
   pilE: Carbon tetrachloride
   pilBenar: 2

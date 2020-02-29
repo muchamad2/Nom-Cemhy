@@ -13,20 +13,20 @@ MonoBehaviour:
   m_Name: penjelasanke-4
   m_EditorClassIdentifier: 
   tag: ID
-  benar: "\r\nAntara kation yang biloksnya berbeda di dalam larutan tidak dapat membenttuk
-    senyawa.\r\nFe = Besi \r\nO<sup>2-</sup> = Oksigen\r\nFe<sup>2+</sup> dan Fe<sup>3+</sup>
+  benar: "Antara kation yang biloksnya berbeda di dalam larutan tidak dapat membenttuk
+    senyawa.\r\nFe = Besi \r\nO<sup>2- </sup>= Oksigen\r\nFe<sup>2+ </sup>dan <sup>Fe3+</sup>
     dapat berikatan dengan O<sup>2-</sup>\r\nKarena adanya muatan 2+ dan 3+ maka sesuai
-    dengan aturan IUPAC nama kation diberi angka romawi (II) jika muatanya 2+ dan
+    dengan aturan IUPAC nama kation diberi angka Romawi (II) jika muatanya 2+ dan
     (III) jika muatannya 3+ sedangkan anion di beri akhiran -ida jadi senyawa ini
     adalah FeO = Besi (II) Oksida dan Fe<sub>2</sub>O<sub>3</sub> = Besi(III) Oksida"
   salah: "Antara kation yang biloksnya berbeda di dalam larutan tidak dapat membenttuk
     senyawa.\r\nFe = Besi \r\nO<sup>2-</sup> = Oksigen\r\nFe<sup>2+</sup> dan Fe<sup>3+</sup>
     dapat berikatan dengan O<sup>2-</sup>\r\nKarena adanya muatan 2+ dan 3+ maka sesuai
-    dengan aturan IUPAC nama kation diberi angka romawi (II) jika muatanya 2+ dan
+    dengan aturan IUPAC nama kation diberi angka Romawi (II) jika muatanya 2+ dan
     (III) jika muatannya 3+ sedangkan anion di beri akhiran -ida jadi senyawa ini
     adalah FeO = Besi (II) Oksida dan Fe<sub>2</sub>O<sub>3</sub> = Besi(III) Oksida\r\n\r\nMenurut
     aturan IUPAC :\r\nApabila ada unsur ion yang berikatan ( kation dan anion) maka
-    tata nama untuk kation sama dengan nama unsur tersebt namun untuk senyawa anion
+    tata nama untuk kation sama dengan nama unsur tersebut namun untuk senyawa anion
     diberi akhiran \u2013ida. \r\nSelain itu jumlah unsur tidak perlu disebutkan jumlahnya.
-    (mono, di, tri)\r\nNamun, diberi angka romawi kurung (II)/(III) karena unsur ini
-    memiliki dua muatan sehingga dapat dibedakan,\r\n"
+    (mono, di, tri)\r\nNamun, diberi angka Romawi kurung (II)/(III) karena unsur ini
+    memiliki dua muatan sehingga dapat dibedakan,"

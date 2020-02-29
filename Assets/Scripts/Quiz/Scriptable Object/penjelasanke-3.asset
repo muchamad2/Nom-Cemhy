@@ -13,12 +13,12 @@ MonoBehaviour:
   m_Name: penjelasanke-3
   m_EditorClassIdentifier: 
   tag: ID
-  benar: "Al<sup>3+</sup> = Aluminium \r\nO<sup>2-</sup> = Oksigen \r\nSesuai dengan
+  benar: "Al<sup>3+ </sup>= Aluminium \r\nO<sup>2- </sup>= Oksigen \r\nSesuai dengan
     aturan IUPAC nama anion di beri akhiran -ida jadi senyawa ini adalah Aluminium
-    Oksida\t"
-  salah: "\r\nAl<sup>3+</sup> = Aluminium \r\nO<sup>2-</sup> = Oksigen \r\nSesuai
-    dengan aturan IUPAC nama anion di beri akhiran -ida jadi senyawa ini adalah Aluminium
+    Oksida"
+  salah: "Al<sup>3+ </sup>= Aluminium \r\nO<sup>2- </sup>= Oksigen \r\nSesuai dengan
+    aturan IUPAC nama anion di beri akhiran -ida jadi senyawa ini adalah Aluminium
     Oksida\r\n\r\nMenurut aturan IUPAC :\r\nApabila ada unsur ion yang berikatan (
-    kation dan anion) maka tata nama untuk kation sama dengan nama unsur tersebt namun
-    untuk senyawa anion diberi akhiran \u2013ida. \r\nSelain itu jumlah unsur tidak
-    perlu disebutkan jumlahnya. (mono, di, tri)"
+    kation dan anion) maka tata nama untuk kation sama dengan nama unsur tersebut
+    namun untuk senyawa anion diberi akhiran \u2013ida. \r\nSelain itu jumlah unsur
+    tidak perlu disebutkan jumlahnya. (mono, di, tri)"

@@ -16,10 +16,14 @@ MonoBehaviour:
   unsur1: 
   unsur2: 
   unsur3: "\nNama IUPAC senyawa SiCl<sub>4</sub> adalah\u2026.\n"
+  unsur4: 
+  doubleSoal: 0
+  dualElenmeyer: 0
+  specialAfter: 0
   dapatBereaksi: 0
-  pilA: Silikon kercondioksida
-  pilB: Klorida Silikon (IV)
+  pilA: Silikon karbondioksida
+  pilB: Klorida Silikon(IV)
   pilC: Silikon triklorida
-  pilD: Silikon (IV) klorida
+  pilD: Silikon(IV) klorida
   pilE: Silikon tetraklorida
   pilBenar: 5

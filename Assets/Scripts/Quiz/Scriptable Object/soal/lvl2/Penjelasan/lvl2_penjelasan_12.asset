@@ -13,15 +13,15 @@ MonoBehaviour:
   m_Name: lvl2_penjelasan_12
   m_EditorClassIdentifier: 
   tag: ID
-  benar: "P = Phosphorus\r\nCl = Chlorine\r\nIndex 5 = penta\r\nased on IUPAC rules
+  benar: "P = Phosphorus\r\nCl = Chlorine\r\nIndex 5 = penta\r\nBased on IUPAC rules
     that the first non-metallic element (P) is named according to its name ie Phosphorus
     while the second non-metallic element (Cl) is given the suffix -ide to Chloride
     followed by the mention of the index of a number of elements. Because Chlorine
     has 5 elements, the prefix is given so that the right formula is PCl<sub>5</sub>
-    and the proper name is Phosphorus pentachloride"
-  salah: "P = Phosphorus\r\nCl = Chlorine\r\nIndex 5 = penta\r\nased on IUPAC rules
+    and the proper name is <nobr><b>Phosphorus pentachloride</b></nobr>"
+  salah: "P = Phosphorus\r\nCl = Chlorine\r\nIndex 5 = penta\r\nBased on IUPAC rules
     that the first non-metallic element (P) is named according to its name ie Phosphorus
     while the second non-metallic element (Cl) is given the suffix -ide to Chloride
     followed by the mention of the index of a number of elements. Because Chlorine
     has 5 elements, the prefix is given so that the right formula is PCl<sub>5</sub>
-    and the proper name is Phosphorus pentachloride"
+    and the proper name is <nobr><b>Phosphorus pentachloride</b></nobr>"

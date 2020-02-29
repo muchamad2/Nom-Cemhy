@@ -13,12 +13,12 @@ MonoBehaviour:
   m_Name: penjelasanke-2
   m_EditorClassIdentifier: 
   tag: ID
-  benar: "Mg<sup>2+</sup> = Magnesium\r\nS<sup>-</sup> = Sulfur \r\nSesuai dengan
+  benar: "Mg<sup>2+</sup> = Magnesium\r\nS<sup>2- </sup>= Sulfur \r\nSesuai dengan
     aturan IUPAC nama anion di beri akhiran -ida jadi nama senyawa ini adalah Magnesium
     Sulfida"
-  salah: "Mg<sup>2+</sup> = Magnesium\r\nS<sup>-</sup> = Sulfur \r\nSesuai dengan
+  salah: "Mg<sup>2+ </sup>= Magnesium\r\nS<sup>2- </sup>= Sulfur \r\nSesuai dengan
     aturan IUPAC nama anion di beri akhiran -ida jadi nama senyawa ini adalah Magnesium
     Sulfida\r\n\r\nMenurut aturan IUPAC :\r\nApabila ada unsur ion yang berikatan
-    ( kation dan anion) maka tata nama untuk kation sama dengan nama unsur tersebt
+    ( kation dan anion) maka tata nama untuk kation sama dengan nama unsur tersebut
     namun untuk senyawa anion diberi akhiran \u2013ida. \r\nSelain itu jumlah unsur
-    tidak perlu disebutkan jumlahnya. (mono, di, tri)\r\n"
+    tidak perlu disebutkan jumlahnya. (mono, di, tri) "

@@ -14,15 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   tag: ID
   benar: "\n\r<sprite=8>\r\n\r\n\n\r\nBerdasarkan gambar diatas terdapat 1 atom karbon
-    dan 4 atom Cl. Sehingga rumus strukturnya yaitu CCl4\r\nC = Karbon\r\nCl = Klorin\r\nBerdasarkan
-    aturan IUPAC bahwa unsur non-logam pertama (C) diberi nama sesuai dengan namanya
-    yaitu Karbon sedangkan unsur non-logam kedua (Cl) diberi akhiran \u2013ida menjadi
-    Klorida diikuti penyebutan indeks sejumlah unsur. Karena Klorin terdapat 4 atom
-    maka awalannya diberi tetra- Sehingga nama yang tepat adalah Karbon tetraklorida.\r\n"
-  salah: "\r\n<sprite=8>\r\n\r\n\n\n\r\nBerdasarkan gambar diatas terdapat 1 atom
-    karbon dan 4 atom Cl. Sehingga rumus strukturnya yaitu CCl4\r\nC = Karbon\r\nCl
+    dan 4 atom Cl. Sehingga rumus strukturnya yaitu CCl<sub>4</sub>\r\nC = Karbon\r\nCl
     = Klorin\r\nBerdasarkan aturan IUPAC bahwa unsur non-logam pertama (C) diberi
     nama sesuai dengan namanya yaitu Karbon sedangkan unsur non-logam kedua (Cl) diberi
-    akhiran \u2013ida menjadi Klorida diikuti penyebutan indeks sejumlah unsur. Karena
-    Klorin terdapat 4 atom maka awalannya diberi tetra- Sehingga nama yang tepat adalah
-    Karbon tetraklorida.\r\n"
+    akhiran <nobr><b>\u2013ida</b></nobr> menjadi Klorida diikuti penyebutan indeks
+    sejumlah unsur. Karena Klorin terdapat 4 atom maka awalannya diberi <nobr><b>tetra-</b></nobr>
+    Sehingga nama yang tepat adalah <nobr>Karbon tetraklorida</nobr>."
+  salah: "\n\r<sprite=8>\r\n\r\n\n\r\nBerdasarkan gambar diatas terdapat 1 atom karbon
+    dan 4 atom Cl. Sehingga rumus strukturnya yaitu CCl<sub>4</sub>\r\nC = Karbon\r\nCl
+    = Klorin\r\nBerdasarkan aturan IUPAC bahwa unsur non-logam pertama (C) diberi
+    nama sesuai dengan namanya yaitu Karbon sedangkan unsur non-logam kedua (Cl) diberi
+    akhiran <nobr><b>\u2013ida</b></nobr> menjadi Klorida diikuti penyebutan indeks
+    sejumlah unsur. Karena Klorin terdapat 4 atom maka awalannya diberi <nobr><b>tetra-</b></nobr>
+    Sehingga nama yang tepat adalah <nobr>Karbon tetraklorida</nobr>."

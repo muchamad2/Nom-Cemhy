@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: lvl2_penjelasan_18
   m_EditorClassIdentifier: 
   tag: ID
-  benar: "\r\n<sprite=7>\r\n\r\n\r\n\r\n\r\nBased on the picture above SO<sub>2</sub>
-    is a primary pollutant and SO<sub>3</sub> is a secondary pollutant.\r\nSulfur
-    = S\r\nOxide = O\r\nSulfur which binds two / three oxygen gases so that the oxygen
-    index is 2 or 3. that the compound formula is SO<sub>2</sub> and SO<sub>3</sub>"
-  salah: "\r\n<sprite=7>\r\n\r\n\r\n\r\n\r\nBased on the picture above SO<sub>2</sub>
-    is a primary pollutant and SO<sub>3</sub> is a secondary pollutant.\r\nSulfur
-    = S\r\nOxide = O\r\nSulfur which binds two / three oxygen gases so that the oxygen
-    index is 2 or 3. that the compound formula is SO<sub>2</sub> and SO<sub>3</sub>"
+  benar: "\r\n<sprite=7>\r\n\r\n\r\n\r\n\r\nBased on the picture above SO2 is a primary
+    pollutant and SO3 is a secondary pollutant.\r\nSulfur = S\r\nOxide = O\r\nSulfur
+    which binds two / three oxygen gases so that the oxygen index is 2 or 3. So that
+    the compound formula is <nobr><b>SO<sub>2</sub> and SO<sub>3</sub></b></nobr>"
+  salah: "\r\n<sprite=7>\r\n\r\n\r\n\r\n\r\nBased on the picture above SO2 is a primary
+    pollutant and SO3 is a secondary pollutant.\r\nSulfur = S\r\nOxide = O\r\nSulfur
+    which binds two / three oxygen gases so that the oxygen index is 2 or 3. So that
+    the compound formula is <nobr><b>SO<sub>2</sub> and SO<sub>3</sub></b></nobr>"

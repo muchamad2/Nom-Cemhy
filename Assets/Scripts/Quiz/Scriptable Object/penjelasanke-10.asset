@@ -13,13 +13,13 @@ MonoBehaviour:
   m_Name: penjelasanke-10
   m_EditorClassIdentifier: 
   tag: ID
-  benar: "Ca<sup>2+</sup> = Calcium\r\nF<sup>-</sup> = Fluorine\r\nIn accordance with
-    IUPAC rules the name anion is given the suffix -ide so the name of this compound
-    is Calcium Fluoride\r\n"
-  salah: "Ca<sup>2+</sup> = Calcium\r\nF<sup>-</sup> = Fluorin\r\nIn accordance with
-    IUPAC rules the name anion is given the suffix -ide so the name of this compound
-    is Calcium Fluoride\r\n\r\nAccording to IUPAC rules:\r\nIf there are binding ionic
-    elements (cations and anions), the nomenclature for the cation is the same as
-    the name of the element, but for the anion compound it is given the -ide suffix.
-    \r\nIn addition, the number of elements doesn\u2019t need to be mentioned. (mono,
-    di, tri)\r\n"
+  benar: "Ca<sup>2+</sup> = Calcium \r\nF<sup>-</sup> = Fluorine \r\nIn accordance
+    with IUPAC rules the name anion is given the suffix -ide so the name of this compound
+    is Calcium Fluoride"
+  salah: "Ca<sup>2+</sup> = Calcium\r\nF<sup>-</sup> = Fluorine \r\nIn accordance
+    with IUPAC rules the name anion is given the suffix -ide so the name of this compound
+    is Calcium Fluoride \r\n\r\nAccording to IUPAC rules:\r\nIf there are binding
+    ionic elements (cations and anions), the nomenclature for the cation is the same
+    as the name of the element, but for the anion compound it is given the -ide suffix.\r\nIn
+    addition, the number of elements doesn\u2019t need to be mentioned. (mono, di,
+    tri)"

@@ -15,13 +15,13 @@ MonoBehaviour:
   tag: ID
   unsur1: '?'
   unsur2: 
-  unsur3: Molecular formula of barium hydroxide ..
+  unsur3: "Molecular formula of Barium hydroxide is\u2026"
   unsur4: 
   doubleSoal: 0
   dualElenmeyer: 0
   specialAfter: 0
   dapatBereaksi: 0
-  pilA: a.B(OH)<sub>2</sub>
+  pilA: a.Ba(OH)<sub>2</sub>
   pilB: b.B<sub>2</sub>(OH)<sub>2</sub>
   pilC: c.B(OH)<sub>2</sub>
   pilD: d.Ba<sub>2</sub>(OH)

@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   tag: ID
   benar: "Barium = B\r\nHydroxide = OH<sup>-</sup>\r\nSo if the two compounds bind
-    together they will form compound B(OH)<sub>2</sub>"
+    together they will form compound <nobr><b>Ba(OH)<sub>2</sub></b></nobr>"
   salah: "Barium = B\r\nHydroxide = OH<sup>-</sup>\r\nSo if the two compounds bind
-    together they will form compound B(OH)<sub>2</sub>"
+    together they will form compound <nobr><b>Ba(OH)<sub>2</sub></b></nobr>"

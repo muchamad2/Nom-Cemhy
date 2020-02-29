@@ -13,15 +13,17 @@ MonoBehaviour:
   m_Name: lvl2_penjelasan_9
   m_EditorClassIdentifier: 
   tag: ID
-  benar: "\r\nP = Fosfor\r\nS = Oksigen\r\nBerdasarkan aturan IUPAC bahwa unsur non-logam
+  benar: "P = Fosfor\r\nS = Oksigen\r\nBerdasarkan aturan IUPAC bahwa unsur non-logam
     pertama (P) diberi nama sesuai dengan namanya yaitu Fosfor sedangkan unsur non-logam
-    kedua (O) diberi akhiran \u2013ida menjadi Oksida diikuti penyebutan indeks sejumlah
-    unsur. Karena Fosfor  memiliki indeks 2 maka awalannya diberi di- sedangkan Oksigen
-    memiliki indeks 5 maka awalannya diberi penta- .Sehingga nama yang tepat adalah
-    Difosforus pentaoksida. (penambahan \u2013us pada fosfor merupakan suatu kesepakatan)"
-  salah: "\r\nP = Fosfor\r\nS = Oksigen\r\nBerdasarkan aturan IUPAC bahwa unsur non-logam
+    kedua (O) diberi akhiran <nobr><b>\u2013ida</b></nobr> menjadi Oksida diikuti
+    penyebutan indeks sejumlah unsur. Karena Fosfor  memiliki indeks 2 maka awalannya
+    diberi di- sedangkan Oksigen memiliki indeks 5 maka awalannya diberi penta- .Sehingga
+    nama yang tepat adalah <nobr><b>Difosforus pentaoksida</b></nobr>. (penambahan
+    \u2013us pada fosfor merupakan suatu kesepakatan)"
+  salah: "P = Fosfor\r\nS = Oksigen\r\nBerdasarkan aturan IUPAC bahwa unsur non-logam
     pertama (P) diberi nama sesuai dengan namanya yaitu Fosfor sedangkan unsur non-logam
-    kedua (O) diberi akhiran \u2013ida menjadi Oksida diikuti penyebutan indeks sejumlah
-    unsur. Karena Fosfor  memiliki indeks 2 maka awalannya diberi di- sedangkan Oksigen
-    memiliki indeks 5 maka awalannya diberi penta- .Sehingga nama yang tepat adalah
-    Difosforus pentaoksida. (penambahan \u2013us pada fosfor merupakan suatu kesepakatan)"
+    kedua (O) diberi akhiran <nobr><b>\u2013ida</b></nobr> menjadi Oksida diikuti
+    penyebutan indeks sejumlah unsur. Karena Fosfor  memiliki indeks 2 maka awalannya
+    diberi di- sedangkan Oksigen memiliki indeks 5 maka awalannya diberi penta- .Sehingga
+    nama yang tepat adalah <nobr><b>Difosforus pentaoksida</b></nobr>. (penambahan
+    \u2013us pada fosfor merupakan suatu kesepakatan)"

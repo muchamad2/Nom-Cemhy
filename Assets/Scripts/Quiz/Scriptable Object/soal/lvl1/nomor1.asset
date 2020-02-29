@@ -16,6 +16,10 @@ MonoBehaviour:
   unsur1: Na<sup>+</sup>
   unsur2: Cl<sup>-</sup>
   unsur3: 
+  unsur4: 
+  doubleSoal: 0
+  dualElenmeyer: 0
+  specialAfter: 0
   dapatBereaksi: 1
   pilA: Natrium Klorin
   pilB: Natrium Klorida

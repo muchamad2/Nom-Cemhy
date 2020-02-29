@@ -14,9 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   tag: ID
   benar: "Na<sup>+</sup> = Natrium \r\nCl<sup>-</sup> = Klorin \r\nSesuai dengan aturan
-    IUPAC nama anion di beri akhiran -ida jadi nama senyawa ini adalah Natrium klorida\t"
+    IUPAC nama anion di beri akhiran -ida jadi nama senyawa ini adalah Natrium klorida"
   salah: "Na<sup>+</sup> = Natrium \r\nCl<sup>-</sup> = Klorin \r\nsesuai dengan aturan
     IUPAC nama anion di beri akhiran -ida jadi nama senyawa ini adalah Natrium klorida.\r\n\r\nMenurut
     aturan IUPAC :\r\nApabila ada unsur ion yang berikatan ( kation dan anion) maka
-    tata nama untuk kation sama dengan nama unsur tersebt namun untuk senyawa anion
+    tata nama untuk kation sama dengan nama unsur tersebut namun untuk senyawa anion
     diberi akhiran \u2013ida. "

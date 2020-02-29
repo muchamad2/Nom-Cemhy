@@ -18,7 +18,11 @@ MonoBehaviour:
   unsur3: "Polutan sulfur oksida merupakan polutan akibat proses pembakaran bahan
     bakar (\_batu arang, minyak bakar, gas, kayu dan sebagainya). Polutan ini dibentuk
     dari bahan bakar yang mengandung sulfur yang mengikat gas dua atau tiga oksigen
-    di udara. Rumus senyawa dari polutan ini adalah\u2026\r\n\r\n"
+    di udara. Rumus senyawa dari polutan ini adalah\u2026"
+  unsur4: 
+  doubleSoal: 0
+  dualElenmeyer: 0
+  specialAfter: 0
   dapatBereaksi: 0
   pilA: SO<sub>2</sub> dan SO<sub>3</sub>
   pilB: S<sub>2</sub>O dan S<sub>3</sub>O

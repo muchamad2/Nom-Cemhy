@@ -79,7 +79,6 @@ public class SoalManager : MonoBehaviour
         //panelPenjelasan = GameObject.FindGameObjectWithTag("Panel Penjelasan");
         //panelBenar = GameObject.FindGameObjectWithTag("Panel Benar");
 
-
         panelSoal.SetActive(false);
 
         panelPenjelasan.SetActive(false);
@@ -281,6 +280,8 @@ public class SoalManager : MonoBehaviour
                     soal1Text.SetText("Are these two compounds possible to bind?");
                     break;
             }
+            if(kunciJwbnLvl[currSoalindex].unsur4 != string.Empty)
+                soal1Text.SetText(kunciJwbnLvl[currSoalindex].unsur4);
             panelSoal1.SetActive(true);
             panelSoal2.SetActive(false);
         }

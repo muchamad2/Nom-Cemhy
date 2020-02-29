@@ -6,11 +6,18 @@ using UnityEngine.SceneManagement;
 
 public class mainMenuController : MonoBehaviour
 {
+    [Header("Audio References")]
     [SerializeField] AudioSource bgmSource;
     [SerializeField] Slider slider;
+    [Header("Panel References")]
     [SerializeField] public List<GameObject> panel = new List<GameObject>();
     [SerializeField] public List<GameObject> materiPanel = new List<GameObject>();
     public static int unlockedLvl = 1;
+    [Header("Level Panel References")]
+    public Image[] imgLvl;
+    public GameObject[] lvlUnlock;
+    public Sprite sprLockLvl;
+    public Sprite sprUnlockLvl;
 
     private void Awake()
     {
@@ -25,6 +32,19 @@ public class mainMenuController : MonoBehaviour
         else
             GameUtility.currentVolume = bgmSource.volume;
         slider.value = bgmSource.volume;
+        for (int i = 0; i < imgLvl.Length; i++)
+        {
+            if (i > unlockedLvl-1){
+                imgLvl[i].sprite = sprLockLvl;
+                lvlUnlock[i].SetActive(false);
+            }
+            else{
+                imgLvl[i].sprite = sprUnlockLvl;
+                lvlUnlock[i].SetActive(true);
+            }
+                
+        }
+
     }
     private void Update()
     {

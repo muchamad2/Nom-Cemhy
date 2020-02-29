@@ -16,6 +16,10 @@ MonoBehaviour:
   unsur1: Mg<sup>2+</sup>
   unsur2: S<sup>2-</sup>
   unsur3: 
+  unsur4: 
+  doubleSoal: 0
+  dualElenmeyer: 0
+  specialAfter: 0
   dapatBereaksi: 1
   pilA: Magnesium Sulfida
   pilB: Magnesium Sulfur
